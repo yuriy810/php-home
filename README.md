@@ -8,7 +8,7 @@
 5) Заходим в папку `OpenServer/domains` и создаем там папку `homework.local`
 6) Далее клонируем свой репозиторий в папку `homework.local` для этого открываем консоль или gitbash в этой папке и выполняем команду `git clone адрес_репозитория .`
 
-![alt text](http://joxi.ru/BA0dWQgsBeNVbA, "git clone")
+http://joxi.ru/BA0dWQgsBeNVbA
 
 7) Создаем в папке `homework.local` папку с вашим именем и фамилией например `Evgeniy_Nakoneschniy`
 8) В папке с именем и фамилией создат папку `01` а в ней файл `index.php`. Пока что оставяем его пустым
@@ -18,6 +18,6 @@
 
 10) Переходим в свой форкнутый репозиторий на github  и делаем pull request
 
-![alt text](http://joxi.ru/brRDpg7FQj44d2, "pull request")
+http://joxi.ru/brRDpg7FQj44d2
 ##Инструкция по настройке ПО `для Linux`
 _В процессе написания_
